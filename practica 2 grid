@@ -1,0 +1,137 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0 ">
+    <title>Document</title>
+    
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+     <header>
+         <div class="container">
+             <h1>MOTOMANIA</h1>
+
+         </div>
+
+     </header>
+
+
+     <div class="container">
+        <section class="main row">
+            <article class="col-sx-12 col-sm-8 col-md-9 ">
+                <p>
+                   
+                    Si eres un apasionado de las motocicletas o hasta ahora estás ingresando a este mundo, creemos que no solo basta con tener una o saber de ella. Profundizar tus conocimientos será perfecto, ya sea si quieres tener una motocicleta y poder repararla tú mismo o desees emprender en este negocio
+                </p>
+                <img src="imag/moto.png" alt="" height="300">
+            </article>
+   
+            <aside class="col-sx-12 col-sm-4 col-md-3 ">
+                <p>
+                   <h3>Noticias</h3>
+                    La moto es uno de los mejores medios de transporte en las cada vez más congestionadas ciudades. Permite reducir los tiempos de desplazamiento (entre un 50% y un 70% según datos de la patronal de fabricantes ANESDOR), contamina menos y reduce el gasto en combustible. 
+
+                    Ahora, para disfrutar de los vehículos de dos ruedas a pleno rendimiento, tras el parón invernal y el frío arranque de la primavera, hay que tener en consideración una serie de pautas antes de ponerse de nuevo en marcha. Lo primero es un poco de paciencia, porque hay que inspeccionar con atención varios aspectos.  
+
+
+                </p>
+            </aside>
+   
+        </section>
+        <div class="row">
+            <div class="color4 col-xs-12 col-sm-6 col-md-3">
+                <p>
+                    <h3>Scooters y maxiscooters</h3>
+ Auténticos superventas y protagonistas de la movilidad urbana, son vehículos sin carenado que cuentan con un escudo protector frontal.
+Existen modelos de rueda baja y rueda alta y con dos o tres ruedas. Y los de media y gran cilindrada son denominados maxiscooters o megascooters.
+Con el carnet B 
+                </p>
+            </div>
+            <div class="color1 col-xs-12 col-sm-6 col-md-3">
+                <p>
+                    <h3>Triciclos y cuatriciclos</h3>
+                    Con apariencia de maxiscooter, en el mercado también se comercializan triciclos y cuatriciclos que pueden ser conducidos por los titulares del carnet B.
+                    Como sucede con los scooters y maxiscooters de tres ruedas, son vehículos prácticos que transmiten mucha seguridad a sus usuarios
+                     es posible 
+                </p>
+            </div>
+            <div class="color4 col-xs-12 col-sm-6 col-md-3">
+                <p>
+                   <h3>Naked</h3>
+                   Asimismo, entre los tipos de motos que se comercializan figuran las naked, término que significa “desnudo” o “desnuda” en inglés. Trasladado al mundo de la moto, eso significa que las motos naked poseen un carenado minimalista que deja la mecánica al descubierto.
+                   Disponibles en un amplio abanico de cilindradas, hay motos naked de roadster 
+            </div>
+            <div class=" color1 col-xs-12 col-sm-6  col-md-3">
+                <p>
+                    <h3>Trail</h3>
+                    Las motos trail o maxi-trail de corte aventurero son cada vez más populares y facilitan devorar kilómetros dentro y fuera del asfalto.
+                    Aunque normalmente se habla de ellas como motos altas, pesadas y de gran cilindrada, los fabricantes también ofrecen motos adventure de acceso para que puedan ser conducidas por los usuarios 
+            </div>
+
+            <div class="container">
+                <section class="main row">
+                    <article class= "color2  ">
+                        <p>
+                            <h3>Qué debe revisarse en una moto </h3>
+                           
+                            Se trata de un medio de transporte económico y respetuoso con el medio ambiente que nos facilita llegar antes a nuestro destino. Por eso, cada vez son más los conductores que apuestan por él. Si tú eres uno de ellos y no tienes muy claro qué modelo adquirir, a través del presente post podrás conocer los diferentes tipos de motos y sus principales características. 
+                        </p>
+                        <img src="imag/mot.png" alt="" height="300">
+                    </article>
+
+                </section>
+
+                <div class="container text-center mt-5 color3">
+                    <h3 class="display-6">servicios</h3>
+                    <div class="row mt-4">
+                        <div class="col-sm-12 col-md-3 col-log-4 py-3">
+                            <div class="card shadow">
+                                <img src="imag/log.png" class="card-imag-top"  alt="servicio1"  height="200">
+                             <div class="card-body">
+                                 <h4>Modelos</h4>
+                                 <a href="#" class="btn btn-sm btn-primary" >Mas informacion</a>
+                             </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-4 col-log-4 py-3">
+                            <div class="card shadow">
+                                <img src="imag/RH.png" class="card-imag-top"  alt="servicio2"  height="200">
+                             <div class="card-body">
+                                 <h4>recurso humano </h4>
+                                 <a href="#" class="btn btn-sm btn-primary" >Mas informacion</a>
+                             </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-4 col-log-4 py-3">
+                            <div class="card shadow">
+                                <img src="imag/RD.png" class="card-imag-top"  alt="servicio3" height="200">
+                             <div class="card-body">
+                                 <h4>Articulos</h4>
+                                 <a href="#" class="btn btn-sm btn-primary" >Mas informacion</a>
+                             </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                </div>
+        </div>
+     </div>
+     
+     <footer>
+         <div class="container">
+            <h3>facebook</h3>
+            <h3>correo eletronico</h3>
+         </div>
+         
+     </footer>
+
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://code.jquery.com jquery-latest.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</body>
+</html>
